@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(235, 219, 243)
+}
+header{
+    background-color: rgb(151,234,244);
+}
+h2{
+    color: rgb(72, 228, 176);
+}
+hr{
+    color:gray;
+  
+}
+footer{
+    text-align: center;
+    background-color: lime;
+    padding: 0.02px;
+    height: 40px;
+}
+.phone{
+    text-transform: uppercase;
+    text-shadow: limegreen;
+}
